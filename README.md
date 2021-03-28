@@ -1,5 +1,8 @@
 # watchpose
-datasets and source codes of watchpose
+
+WatchPose is a simple but efficient camera pose data collection method, WatchPose, to improve the generalization and robustness of camera pose regression models. Specifically, WatchPose tracks nested markers and visualizes viewpoints in an Augmented Reality- (AR) based manner to properly guide users to collect training data from broader camera-object distances and more diverse views around the objects.
+
+## 
 
 ## Dataset
 Due to limited space, here we only provide testing data and their ground truth. If you want full training data, please send us email: yangcong955@126.com
