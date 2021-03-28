@@ -10,8 +10,8 @@ If you use these works in your research, please cite:
 		author = {Yang, Cong and Simon, Gilles and See, John and Berger, Marie-Odile and Wang, Wenyong},
 		title = {WatchPose: A View-Aware Approach for Camera Pose Data Collection in Industrial Environments},
 		journal = {Sensors},
-                volume={20},
-                number={11},
+             volume={20},
+             number={11},
                 pages={3045},
                 year={2020},
                 publisher={Multidisciplinary Digital Publishing Institute}
