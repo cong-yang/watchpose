@@ -28,8 +28,8 @@ If you use these works in your research, please cite:
 **Data Structure**:
 
 - obj1
-   -- small_distance: around 50cm camear-object distance with normal marker
-      -- img_0_99.jpg: original image
+   - small_distance: around 50cm camear-object distance with normal marker
+   -img_0_99.jpg: original image
       -- makloca_0_99.txt: marker location (four corners) within the image
       -- tran_0_99.txt: rotation and translation
    -- big _distance: around 100-200cm camera-object distance with nestmarker
