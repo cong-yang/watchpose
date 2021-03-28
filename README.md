@@ -16,10 +16,11 @@ WatchPose is a simple but efficient camera pose data collection method, WatchPos
 
 ## Dataset: Industral10
 
-1. Due to space limitation in github, here we only provide testing data and their ground truth. If you want full training data, please send us email: yangcong955@126.com
+1. Due to space limitation in github, here we only provide testing data and their ground truth. If you want full training data, please send us email: cong.yang@uni-siegen.de.
 2. At present, it is only open to non-profit institutions such as schools and research institutes, and not to companies and enterprises. Any other use beyond that is prohibited. To ensure the continuous development of this project, we demand responsible use of the data you are about to acquire.
 3. Without permission, it is not allowed to forward, publish or distribute this dataset or its subsets to any organization or individual in any ways or by any means.
-4. Please cite our paper if Industral10 dataset is useful to your research
+4. Please cite our paper if Industral10 dataset is useful to your research.
+5. We will not accept applications from generic email addresses (e.g. gmail.com, 163.com, etc.). Only applications from email addresses of non-profit institutions such as schools and research institutes are accepted.
 
 data structure:
 
