@@ -33,6 +33,9 @@ If you use these works in your research, please cite:
       - makloca_0_99.txt: marker location (four corners) within the image
       - tran_0_99.txt: rotation and translation
    - big _distance: around 100-200cm camera-object distance with nestmarker
-      -- img_0_99.jpg: original image
-      -- makloca_0_99.txt: marker location (four corners) within the image
-      -- tran_0_99.txt: rotation and translation
+      - img_0_99.jpg: original image
+      - makloca_0_99.txt: marker location (four corners) within the image
+      - tran_0_99.txt: rotation and translation
+
+## Source Codes
+
